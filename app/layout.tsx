@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'DealerXChange',
-  description: 'DealerXChange.com',
+  title: 'DealerXChangeNetwork',
+  description: 'DealerXChangeNetwork.com',
 };
 
 export default function RootLayout({
